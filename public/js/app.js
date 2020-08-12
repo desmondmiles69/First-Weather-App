@@ -1,5 +1,3 @@
-console.log("javaScript is running bruh dw")
-
 const weather = document.querySelector("form")
 const search = document.querySelector("input")
 const message1 = document.querySelector("#message1")
